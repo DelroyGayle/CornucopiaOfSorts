@@ -135,7 +135,7 @@ and if everything else is the same the original index will be the discriminating
 ---
 
 ## Animations of Sorting Algorithms
-Please see 
+Please see this [link](https://github.com/DelroyGayle/CornucopiaOfSorts/blob/main/ANIMATIONS.md)
 
 ---
 
